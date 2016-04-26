@@ -1,0 +1,17 @@
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+DirectoryIndex index.php
+RewriteEngine On
+RewriteRule ^([0-9A-Za-z\_\-]+)$ index.php?section=$1 [L]
+RewriteRule ^([0-9A-Za-z\_\-]+)/$ index.php?section=$1 [L]
+RewriteRule ^([0-9A-Za-z\_\-]+)/([0-9A-Za-z\_\-]+)$ index.php?section=$1&page=$2 [L]
+RewriteRule ^([0-9A-Za-z\_\-]+)/([0-9A-Za-z\_\-]+)/$ index.php?section=$1&page=$2 [L]
+
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from all
+</Limit>
+<Limit PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
