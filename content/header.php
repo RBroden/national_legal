@@ -13,6 +13,7 @@
             <span class="icon-bar"></span>
          </button>
          <!-- Logo -->
+         <a class="navbar-brand" href="<?=$this->site?>">National Legal Center</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
            <ul class="nav navbar-nav">
