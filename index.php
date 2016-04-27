@@ -1,6 +1,8 @@
 <?php
 
    $site = "http://explosivefish.com/national_legal/";
+   $version = "v2";
+   $resource = $version . "/";
    $section = $_GET['section'];
    $page = $_GET['page'];
 
@@ -10,10 +12,10 @@
       }
       else{
          if($type == 'content'){
-            include 'content/404.php';
+            include $resource . 'content/404.php';
          }
          elseif($type == 'head'){
-            include 'content/default_head.php';
+            include $resource . 'content/default_head.php';
          }
       }
    }
@@ -43,7 +45,7 @@
       }
 
       function buildHTML() {
-         include 'views/default.php';
+         include $resource . 'views/default.php';
       }
 
       function checkActiveTab($tab){
