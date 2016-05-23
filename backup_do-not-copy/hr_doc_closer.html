@@ -1,183 +1,183 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<link rel="shortcut icon" href="images/nlc.ico" type="image/x-icon" />
-<title>HR Application for Document Closer and Compliance</title>
-<link href="styles/main.css" rel="stylesheet" type="text/css">
-<!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.-->
-<script>var __adobewebfontsappname__="dreamweaver"</script>
-<script src="http://use.edgefonts.net/source-sans-pro:n6:default.js" type="text/javascript"></script>
-
-</head>
-<body>
-<header id="top">
-        <h1>National Legal Center</h1><p>
-        <h2>HR Application for Document Closer and Compliance</h2>
-</header>
-<form method="post" action="phpmailer/hr_doc_closer.php">
-  <table>
-  <tr>
-    <td>Full Legal Name:</td>
-    <td><input type="text" name="fulllegalname"/td>
-  </tr>
-  <tr>
-    <td>Aliases, Maiden name, Nick Name:</td>
-    <td><input type="text" name="maidenname"/td>
-  </tr>
-  <tr>
-    <td>Address:</td>
-    <td><input type="text" name="address"/td>
-  </tr>
-  <tr>
-    <td>City/Town:</td>
-    <td><input type="text" name="city"/td>
-    <td>State:</td>
-    <td><input type="text" name="state"/td>
-    <td>Zip:</td>
-    <td><input type="text" name="zip"/td>
-  </tr>
-  <tr>
-    <td>Phone Number:</td>
-    <td><input type="text" name="phone"/td>
-    <td>Email:</td>
-    <td><input type="email" name="email"/td>
-  </tr>
-  </table>
-  
- <table>
-  <tr><td>Language:</td>
-  <td><INPUT  TYPE="radio" NAME="language" VALUE="english"> English
-  <INPUT  TYPE="radio" NAME="language" VALUE="spanish"> Spanish
-  <INPUT  TYPE="radio" NAME="language" VALUE="bilingual"> Bilingual-English/Spanish
-  <INPUT  TYPE="radio" NAME="language" VALUE="other"> Other Language
-  </td>
-  </tr>
-  </table>
- <table>
-  <tr><td>Current Employment Status:</td>
-  <td><INPUT  TYPE="radio" NAME="employmentstatus" VALUE="full-time"> Full-Time
-  <INPUT  TYPE="radio" NAME="employmentstatus" VALUE="part-time"> Part-time
-  <INPUT  TYPE="radio" NAME="employmentstatus" VALUE="self employed"> Self Employed
-  <INPUT  TYPE="radio" NAME="employmentstatus" VALUE="semi-retired"> Semi-Retired
-  <INPUT  TYPE="radio" NAME="employmentstatus" VALUE="retired"> Retired
-  <INPUT  TYPE="radio" NAME="employmentstatus" VALUE="unemployed"> Unemployed
-  <INPUT  TYPE="radio" NAME="employmentstatus" VALUE="other"> Other
-  </td>
-  </tr>
-  </table> 
-  <table>
-  <tr><td>Current type of work(if working)
-  </td>
-  <td> <textarea name="currenttypeofwork" id="currenttypeofwork" rows="5" cols="60"></textarea><br /></td>
-  </tr>
-  </table>
- <table>
-  <tr><td>Previous Work experiences
-  </td>
-  <td> <textarea name="previouswork" id="previouswork" rows="5" cols="60"></textarea><br /></td>
-  </tr>
-  </table> 
-  <table>
-  <tr></tr>
-  <tr><td>Length of employment at current job.  If unemployed, at previous job.</td>
-  <td> <textarea name="lengthofemployment" id="lengthofemployment" rows="1" cols="60"></textarea><br /></td>
-  </tr>
-  </table>
- <table>
-  <tr></tr>
-  <tr><td>If working, what are your current hours/days you work?</td>
-  <td> <textarea name="currentdayhours" id="currentdayhours" rows="1" cols="60"></textarea><br /></td>
-  </tr>
-  </table> 
-  <table>
-  <tr></tr>
-  <tr><td>Company name if you are self-employed</td>
-  <td> <input type="text" name="selfemployedcompanyname"/td>>
-  </tr>
-  </table>
-  <table>
-  <tr></tr>
-  <tr><td>Preferences of when you can work or your availability:</td>
-  <td> <textarea name="availability" id="availability" rows="3" cols="60"></textarea><br /></td>
-  </tr>
-  </table> 
-  <p>Geographical Preference:  Please till us the approximate distance you are willing to drive one-way to complete a Closing?  Hourly rate (plus mileage) is paid fro all driving time, plus time to complete Closing.  The Closing itself generally takes about 30 minutes, seldom over an hour.</p>
-  <table>
-  <tr><td>Circumference from your location.  Miles One Way</td>
-    <td><input type="text" name="milesoneway"/td>
-    </tr>
-    <tr><td>Hours Driving One-way</td>
-    <td><input type="text" name="hoursoneway"/td>
-    </tr>
-    <tr><td>Are you interested in Statewide?:</td>
-  <td><INPUT  TYPE="radio" NAME="statewide" VALUE="Yes"> Yes
-  <INPUT  TYPE="radio" NAME="statewide" VALUE="No"> No
-  </td>
-  </tr>
-  <tr><td>Comments Travel</td>
-  <td> <textarea name="travelcomments" id="travelcomments" rows="2" cols="60"></textarea><br /></td>
-  </tr>
-  </table>
-  <p>If you were offered a wide area to service, and some cases were a substantial drive, and the company reimbursed overnight accommodations, and expenses, whould you be interested? 
-  <input type="radio" Name="overnight" Value="Yes"> Yes
- <input type="radio" Name="overnight" Value="No"> No  </p>
- <p>Do you have a credit card to pay for expenses that would be reimbursed to you? 
- <input type="radio" Name="havecreditcard" Value="Yes"> Yes
- <input type="radio" Name="havecreditcard" Value="No"> No  </p> 
-     
-  <table width="80%" align="left">
-  <tr>
-    <td> Final Comments:</td>
-    <td> <textarea name="finalcomments" id="finalcomments" rows="10" cols="60"></textarea><br /></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><input type="submit" value="Submit"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="reset" value="reset"/></td>
-  </tr>
-  </table>
- </form>
-   
-    <?php
-
-  $fulllegalname = $_REQUEST['fulllegalname'] ;
-  $maidenname = $_REQUEST['maidenname'] ;
-  $address = $_REQUEST['address'] ;
-  $city = $_REQUEST['city'] ;
-  $state = $_REQUEST['state'] ;
-  $zip = $_REQUEST['zip'] ;
-  $phone = $_REQUEST['phone'] ;
-  $email = $_REQUEST['email'] ;
-  $language = $_REQUEST['language'] ;
-  $employmentstatus = $_REQUEST['employmentstatus'] ;
-  $currenttypeofwork = $_REQUEST['currenttypeofwork'] ;
-  $previousworkl = $_REQUEST['previouswork'] ;
-  $lengthofemployment = $_REQUEST['lengthofemployment'] ;
-  $currentdayhours = $_REQUEST['currentdayhours'] ;
-  $selfemployedcompanyname = $_REQUEST['selfemployedcompanyname'] ;
-  $availability = $_REQUEST['availability'] ;
-  $milesoneway = $_REQUEST['milesoneway'] ;
-  $hoursoneway = $_REQUEST['hoursoneway'] ;
-  $statewide = $_REQUEST['statewide'] ;
-  $travelcomments = $_REQUEST['travelcomments'] ;
-  $overnight = $_REQUEST['overnight'] ;
-  $havecreditcard = $_REQUEST['havecreditcard'] ;
-  $finalcomments = $_REQUEST['finalcomments'] ;
-  function getRemoteIPAddress(){
-  $ip = isset($_SERVER['REMOTE_ADDR']) ? $_SERVER['REMOTE_ADDR'] : '';
-  return $ip;
-  }
-?>
-
- <footer>
- <table>
- <tr>
-     <td>
-        <p>&copy; Copyright 2014 National Legal Center</p>
-     </td>
-  </tr>   
- </table>
-    </footer>
- 
-</body>
-</html>
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="shortcut icon" href="images/nlc.ico" type="image/x-icon" />
+<title>HR Application for Document Closer and Compliance</title>
+<link href="styles/main.css" rel="stylesheet" type="text/css">
+<!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.-->
+<script>var __adobewebfontsappname__="dreamweaver"</script>
+<script src="http://use.edgefonts.net/source-sans-pro:n6:default.js" type="text/javascript"></script>
+
+</head>
+<body>
+<header id="top">
+        <h1>National Legal Center</h1><p>
+        <h2>HR Application for Document Closer and Compliance</h2>
+</header>
+<form method="post" action="phpmailer/hr_doc_closer.php">
+  <table>
+  <tr>
+    <td>Full Legal Name:</td>
+    <td><input type="text" name="fulllegalname"/td>
+  </tr>
+  <tr>
+    <td>Aliases, Maiden name, Nick Name:</td>
+    <td><input type="text" name="maidenname"/td>
+  </tr>
+  <tr>
+    <td>Address:</td>
+    <td><input type="text" name="address"/td>
+  </tr>
+  <tr>
+    <td>City/Town:</td>
+    <td><input type="text" name="city"/td>
+    <td>State:</td>
+    <td><input type="text" name="state"/td>
+    <td>Zip:</td>
+    <td><input type="text" name="zip"/td>
+  </tr>
+  <tr>
+    <td>Phone Number:</td>
+    <td><input type="text" name="phone"/td>
+    <td>Email:</td>
+    <td><input type="email" name="email"/td>
+  </tr>
+  </table>
+  
+ <table>
+  <tr><td>Language:</td>
+  <td><INPUT  TYPE="radio" NAME="language" VALUE="english"> English
+  <INPUT  TYPE="radio" NAME="language" VALUE="spanish"> Spanish
+  <INPUT  TYPE="radio" NAME="language" VALUE="bilingual"> Bilingual-English/Spanish
+  <INPUT  TYPE="radio" NAME="language" VALUE="other"> Other Language
+  </td>
+  </tr>
+  </table>
+ <table>
+  <tr><td>Current Employment Status:</td>
+  <td><INPUT  TYPE="radio" NAME="employmentstatus" VALUE="full-time"> Full-Time
+  <INPUT  TYPE="radio" NAME="employmentstatus" VALUE="part-time"> Part-time
+  <INPUT  TYPE="radio" NAME="employmentstatus" VALUE="self employed"> Self Employed
+  <INPUT  TYPE="radio" NAME="employmentstatus" VALUE="semi-retired"> Semi-Retired
+  <INPUT  TYPE="radio" NAME="employmentstatus" VALUE="retired"> Retired
+  <INPUT  TYPE="radio" NAME="employmentstatus" VALUE="unemployed"> Unemployed
+  <INPUT  TYPE="radio" NAME="employmentstatus" VALUE="other"> Other
+  </td>
+  </tr>
+  </table> 
+  <table>
+  <tr><td>Current type of work(if working)
+  </td>
+  <td> <textarea name="currenttypeofwork" id="currenttypeofwork" rows="5" cols="60"></textarea><br /></td>
+  </tr>
+  </table>
+ <table>
+  <tr><td>Previous Work experiences
+  </td>
+  <td> <textarea name="previouswork" id="previouswork" rows="5" cols="60"></textarea><br /></td>
+  </tr>
+  </table> 
+  <table>
+  <tr></tr>
+  <tr><td>Length of employment at current job.  If unemployed, at previous job.</td>
+  <td> <textarea name="lengthofemployment" id="lengthofemployment" rows="1" cols="60"></textarea><br /></td>
+  </tr>
+  </table>
+ <table>
+  <tr></tr>
+  <tr><td>If working, what are your current hours/days you work?</td>
+  <td> <textarea name="currentdayhours" id="currentdayhours" rows="1" cols="60"></textarea><br /></td>
+  </tr>
+  </table> 
+  <table>
+  <tr></tr>
+  <tr><td>Company name if you are self-employed</td>
+  <td> <input type="text" name="selfemployedcompanyname"/td>>
+  </tr>
+  </table>
+  <table>
+  <tr></tr>
+  <tr><td>Preferences of when you can work or your availability:</td>
+  <td> <textarea name="availability" id="availability" rows="3" cols="60"></textarea><br /></td>
+  </tr>
+  </table> 
+  <p>Geographical Preference:  Please till us the approximate distance you are willing to drive one-way to complete a Closing?  Hourly rate (plus mileage) is paid fro all driving time, plus time to complete Closing.  The Closing itself generally takes about 30 minutes, seldom over an hour.</p>
+  <table>
+  <tr><td>Circumference from your location.  Miles One Way</td>
+    <td><input type="text" name="milesoneway"/td>
+    </tr>
+    <tr><td>Hours Driving One-way</td>
+    <td><input type="text" name="hoursoneway"/td>
+    </tr>
+    <tr><td>Are you interested in Statewide?:</td>
+  <td><INPUT  TYPE="radio" NAME="statewide" VALUE="Yes"> Yes
+  <INPUT  TYPE="radio" NAME="statewide" VALUE="No"> No
+  </td>
+  </tr>
+  <tr><td>Comments Travel</td>
+  <td> <textarea name="travelcomments" id="travelcomments" rows="2" cols="60"></textarea><br /></td>
+  </tr>
+  </table>
+  <p>If you were offered a wide area to service, and some cases were a substantial drive, and the company reimbursed overnight accommodations, and expenses, whould you be interested? 
+  <input type="radio" Name="overnight" Value="Yes"> Yes
+ <input type="radio" Name="overnight" Value="No"> No  </p>
+ <p>Do you have a credit card to pay for expenses that would be reimbursed to you? 
+ <input type="radio" Name="havecreditcard" Value="Yes"> Yes
+ <input type="radio" Name="havecreditcard" Value="No"> No  </p> 
+     
+  <table width="80%" align="left">
+  <tr>
+    <td> Final Comments:</td>
+    <td> <textarea name="finalcomments" id="finalcomments" rows="10" cols="60"></textarea><br /></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><input type="submit" value="Submit"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="reset" value="reset"/></td>
+  </tr>
+  </table>
+ </form>
+   
+    <?php
+
+  $fulllegalname = $_REQUEST['fulllegalname'] ;
+  $maidenname = $_REQUEST['maidenname'] ;
+  $address = $_REQUEST['address'] ;
+  $city = $_REQUEST['city'] ;
+  $state = $_REQUEST['state'] ;
+  $zip = $_REQUEST['zip'] ;
+  $phone = $_REQUEST['phone'] ;
+  $email = $_REQUEST['email'] ;
+  $language = $_REQUEST['language'] ;
+  $employmentstatus = $_REQUEST['employmentstatus'] ;
+  $currenttypeofwork = $_REQUEST['currenttypeofwork'] ;
+  $previousworkl = $_REQUEST['previouswork'] ;
+  $lengthofemployment = $_REQUEST['lengthofemployment'] ;
+  $currentdayhours = $_REQUEST['currentdayhours'] ;
+  $selfemployedcompanyname = $_REQUEST['selfemployedcompanyname'] ;
+  $availability = $_REQUEST['availability'] ;
+  $milesoneway = $_REQUEST['milesoneway'] ;
+  $hoursoneway = $_REQUEST['hoursoneway'] ;
+  $statewide = $_REQUEST['statewide'] ;
+  $travelcomments = $_REQUEST['travelcomments'] ;
+  $overnight = $_REQUEST['overnight'] ;
+  $havecreditcard = $_REQUEST['havecreditcard'] ;
+  $finalcomments = $_REQUEST['finalcomments'] ;
+  function getRemoteIPAddress(){
+  $ip = isset($_SERVER['REMOTE_ADDR']) ? $_SERVER['REMOTE_ADDR'] : '';
+  return $ip;
+  }
+?>
+
+ <footer>
+ <table>
+ <tr>
+     <td>
+        <p>&copy; Copyright 2014 National Legal Center</p>
+     </td>
+  </tr>   
+ </table>
+    </footer>
+ 
+</body>
+</html>
