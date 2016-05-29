@@ -1,0 +1,1506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="525d1924-130f-40c0-b74b-f525771c83ce" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v2/content/sections/about/default.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v2/content/sections/about/head.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v2/content/sections/faq/default_copy.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/api/mailer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/.ftpquota" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/PP.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/api/mailer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/content/404.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/content/default_head.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/content/footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/content/header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/content/header_copy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/content/homepage.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/content/homepage_copy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/content/sections/contact/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/content/sections/contact/head.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/content/sections/faq/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/content/sections/faq/head.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/content/sections/practice_areas/defaul_copy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/content/sections/practice_areas/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/content/sections/practice_areas/default_copy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/content/sections/practice_areas/head.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/content/sections/privacy/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/content/sections/privacy/head.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/css/.sass-cache/4119b8d4b5f3e3fcf3280b7f73890d0b174accf8/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/css/.sass-cache/878cf675f8d858cde308974381ab130c00edf4ea/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/css/.sass-cache/980557f93ac2176e29b132b6dc1f3711b11e5425/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/css/.sass-cache/b188166a11b31bdc7aed808dd65a746168b28ab3/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/css/carousel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/css/ie10-viewport-bug-workaround.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/css/img/All-hands-in-Color-Temp-Homepage-Image-to-put-on-gradient-Recovered2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/css/navbar-fixed-top.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/css/style.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/css/style.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/css/w3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/documentation/Fixed Top Navbar Example for Bootstrap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/documentation/Fixed Top Navbar Example for Bootstrap_files/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/documentation/Fixed Top Navbar Example for Bootstrap_files/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/documentation/Fixed Top Navbar Example for Bootstrap_files/ie-emulation-modes-warning.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/documentation/Fixed Top Navbar Example for Bootstrap_files/ie10-viewport-bug-workaround.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/documentation/Fixed Top Navbar Example for Bootstrap_files/ie10-viewport-bug-workaround.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/documentation/Fixed Top Navbar Example for Bootstrap_files/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/documentation/Fixed Top Navbar Example for Bootstrap_files/navbar-fixed-top.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/documentation/index_copy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/documentation/national_legal_site_redesign.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/documentation/snapshots/National_Legal_redesign_snapshot_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/download/samsung_program_manual.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/enroll.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/forms/DAAA_10_17_14.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/forms/DAAA_6_11_15.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/forms/DAAA_8_20_15.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/forms/Hardship_Letter_for_enrollment_package_2015.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/forms/NLC_agreement_2015.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/forms/POA_NLC.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/forms/attorney_survey1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/forms/zz_old_NLC_agreement_2015.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/hipaa_croa.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/hr_doc_closer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/images/farrell_kohler_fox_mcgraw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/images/nlc.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/images/people_sunset.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/images/statue_liberty_face_torch_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/240_F_92363681_rifLyte09fJpH3FqPOPOPCkqx3XllSJS.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/500_F_18067236_xuRDL0115o49PEg7NPQai6GR1nPIyAvm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/500_F_33491113_qiJtKnjjII51CVuWxvVR4srjm0DBQ2t6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/500_F_40906078_xqi8qJqKwgZyFzyiEGfww5uwnRrRmgMa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/500_F_56025347_TnH7eJ3YVYRmmKKFz2jd9KgcwuJwDWWW.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/500_F_67340426_HZatnRu8BnWR9J9QtbqTz59oQQu5AW8I.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/500_F_85546214_OekiGPx9Gk8luDzusUVPIkMZwT947D2M.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/500_F_85646159_uTzEpRjysXxzpjQ5uGMyJ8HezdIXxPwi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/500_F_86094488_cOD8gAPa4GgLxANb3uOHASGO8qIRfwp8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/500_F_89424604_0LvyOgsqyLd2caofEGhFgP0RjnjsLNfB.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/500_F_91825978_M4wu0xxH3VvLQRk7PRgk141SFKEu1QfD.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/500_F_99594662_lTYAZVWc4iTAfTmjh8JCs6zjiAV11vfc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/AdobeStock_30205770_WM.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/AdobeStock_30205770_WM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/All hands in-Color-Temp Homepage Image to put on gradient-Recovered.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/All hands in-Color-Temp Homepage Image to put on gradient.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/All hands in-Color-Temp Homepage Image to put on gradient.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/All-hands-in-Color-Temp-Homepage-Image-remove100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/All-hands-in-Color-Temp-Homepage-Image-to-put-on-gradient-Recovered.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/All-hands-in-Color-Temp-Homepage-Image-to-put-on-gradient-Recovered2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/All-hands-in-Color-Temp-Homepage-Image-to-put-on-gradient.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/All-hands-in-Color-Temp-Homepage-Image-to-put-on-gradient_2000-remove100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/All-hands-in-Color-Temp-Homepage-Image-to-put-on-gradient_2000.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/All-hands-in-Color-Temp-Homepage-Image-to-put-on-gradient_2000_reversed.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/All-hands-in-Color-Temp-Homepage-Image-to-put-on-gradient_edit1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/All-hands-in-Color-Temp-Homepage-Image-to-put-on-gradient_full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/All-hands-in-Color-Temp-Homepage-Image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/Books-PRACTICE AREAS.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/Images_for_website.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/Questions-FAQ.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/Rep on phone-CONTACT US.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/contact_circle.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/faq_circle.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/farrell_kohler_fox_mcgraw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/farrell_kohler_fox_mcgraw_edit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/farrell_kohler_fox_mcgraw_edit.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/farrell_kohler_fox_mcgraw_edit2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/farrell_kohler_fox_mcgraw_edit3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/happypeople.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/nlc.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/people_sunset.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/practice_areas_circle.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/social_icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/img/social_icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/js/angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/js/controllers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/js/holder.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/js/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/js/ie-emulation-modes-warning.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/js/ie10-viewport-bug-workaround.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/.scrutinizer.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/PHPMailerAutoload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/VERSION" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/changelog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/class.phpmailer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/class.phpmaileroauth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/class.phpmaileroauthgoogle.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/class.pop3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/class.smtp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/composer.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/contact.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/docs/Callback_function_notes.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/docs/DomainKeys_notes.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/docs/Note_for_SMTP_debugging.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/docs/extending.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/docs/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/docs/generatedocs.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/docs/pop3_article.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/error_log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/code_generator.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/contents.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/contentsutf8.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/exceptions.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/gmail.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/gmail_xoauth.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/images/phpmailer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/images/phpmailer_mini.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/mail.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/mailing_list.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/pop_before_smtp.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/scripts/XRegExp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/scripts/shAutoloader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/scripts/shBrushPhp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/scripts/shCore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/scripts/shLegacy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/send_file_upload.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/sendmail.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/signed-mail.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/smtp.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/smtp_check.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/smtp_no_auth.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/ssl_options.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/styles/shCore.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/styles/shCoreDefault.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/styles/shCoreDjango.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/styles/shCoreEclipse.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/styles/shCoreEmacs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/styles/shCoreFadeToGrey.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/styles/shCoreMDUltra.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/styles/shCoreMidnight.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/styles/shCoreRDark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/styles/shThemeAppleScript.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/styles/shThemeDefault.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/styles/shThemeDjango.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/styles/shThemeEclipse.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/styles/shThemeEmacs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/styles/shThemeFadeToGrey.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/styles/shThemeMDUltra.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/styles/shThemeMidnight.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/styles/shThemeRDark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/styles/shThemeVisualStudio.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/examples/styles/wrapping.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/extras/EasyPeasyICS.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/extras/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/extras/htmlfilter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/extras/ntlm_sasl_client.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/get_oauth_token.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-am.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-ar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-az.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-be.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-bg.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-br.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-ca.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-ch.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-cz.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-de.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-dk.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-el.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-eo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-es.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-et.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-fa.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-fi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-fo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-fr.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-gl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-he.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-hr.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-hu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-id.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-it.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-ja.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-ka.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-ko.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-lt.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-lv.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-ms.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-nl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-no.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-pl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-pt.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-ro.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-ru.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-se.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-si.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-sk.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-sl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-sr.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-tr.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-uk.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-vi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-zh.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/language/phpmailer.lang-zh_cn.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/test/bootstrap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/test/fakepopserver.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/test/fakesendmail.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/test/phpmailerLangTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/test/phpmailerTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/test/runfakepopserver.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/test/test_callback.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/test/testbootstrap-dist.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/phpmailer/travis.phpunit.xml.dist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/practice_areas.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/privacy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/sitemap.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/styles/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/thankyou.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/api/mailer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/content/404.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/content/default_head.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/content/footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/content/header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/content/header_copy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/content/homepage.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/content/homepage_copy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/content/sections/contact/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/content/sections/contact/head.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/content/sections/faq/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/content/sections/faq/head.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/content/sections/practice_areas/defaul_copy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/content/sections/practice_areas/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/content/sections/practice_areas/default_copy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/content/sections/practice_areas/head.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/content/sections/privacy/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/content/sections/privacy/head.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/css/.sass-cache/4119b8d4b5f3e3fcf3280b7f73890d0b174accf8/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/css/.sass-cache/878cf675f8d858cde308974381ab130c00edf4ea/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/css/.sass-cache/980557f93ac2176e29b132b6dc1f3711b11e5425/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/css/.sass-cache/afe190a93449aeec44dfdbe31ea71e85f1b085a2/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/css/.sass-cache/b188166a11b31bdc7aed808dd65a746168b28ab3/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/css/carousel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/css/ie10-viewport-bug-workaround.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/css/img/All-hands-in-Color-Temp-Homepage-Image-to-put-on-gradient-Recovered2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/css/img/social_icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/css/navbar-fixed-top.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/css/style.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/css/style.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/css/w3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/documentation/Fixed Top Navbar Example for Bootstrap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/documentation/Fixed Top Navbar Example for Bootstrap_files/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/documentation/Fixed Top Navbar Example for Bootstrap_files/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/documentation/Fixed Top Navbar Example for Bootstrap_files/ie-emulation-modes-warning.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/documentation/Fixed Top Navbar Example for Bootstrap_files/ie10-viewport-bug-workaround.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/documentation/Fixed Top Navbar Example for Bootstrap_files/ie10-viewport-bug-workaround.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/documentation/Fixed Top Navbar Example for Bootstrap_files/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/documentation/Fixed Top Navbar Example for Bootstrap_files/navbar-fixed-top.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/documentation/index_copy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/documentation/national_legal_site_redesign.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/documentation/snapshots/National_Legal_redesign_snapshot_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/img/240_F_92363681_rifLyte09fJpH3FqPOPOPCkqx3XllSJS.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/img/500_F_18067236_xuRDL0115o49PEg7NPQai6GR1nPIyAvm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/img/500_F_33491113_qiJtKnjjII51CVuWxvVR4srjm0DBQ2t6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/img/500_F_40906078_xqi8qJqKwgZyFzyiEGfww5uwnRrRmgMa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/img/500_F_56025347_TnH7eJ3YVYRmmKKFz2jd9KgcwuJwDWWW.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/img/500_F_67340426_HZatnRu8BnWR9J9QtbqTz59oQQu5AW8I.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/img/500_F_85546214_OekiGPx9Gk8luDzusUVPIkMZwT947D2M.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/img/500_F_85646159_uTzEpRjysXxzpjQ5uGMyJ8HezdIXxPwi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/img/500_F_86094488_cOD8gAPa4GgLxANb3uOHASGO8qIRfwp8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/img/500_F_89424604_0LvyOgsqyLd2caofEGhFgP0RjnjsLNfB.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/img/500_F_91825978_M4wu0xxH3VvLQRk7PRgk141SFKEu1QfD.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/img/500_F_99594662_lTYAZVWc4iTAfTmjh8JCs6zjiAV11vfc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/img/AdobeStock_30205770_WM.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/img/AdobeStock_30205770_WM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/img/farrell_kohler_fox_mcgraw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/img/farrell_kohler_fox_mcgraw_edit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/img/farrell_kohler_fox_mcgraw_edit.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/img/happypeople.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/img/nlc.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/img/people_sunset.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/img/social_icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/img/social_icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/js/angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/js/controllers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/js/holder.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/js/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/js/ie-emulation-modes-warning.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/js/ie10-viewport-bug-workaround.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/styles/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/views/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/v2/views/default_copy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/views/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup2/views/default_copy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/.ftpquota" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/PP.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/download/samsung_program_manual.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/enroll.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/forms/DAAA_10_17_14.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/forms/DAAA_6_11_15.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/forms/DAAA_8_20_15.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/forms/Hardship_Letter_for_enrollment_package_2015.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/forms/NLC_agreement_2015.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/forms/POA_NLC.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/forms/attorney_survey1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/forms/zz_old_NLC_agreement_2015.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/hipaa_croa.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/hr_doc_closer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/images/farrell_kohler_fox_mcgraw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/images/nlc.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/images/people_sunset.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/images/statue_liberty_face_torch_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/js/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/.scrutinizer.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/PHPMailerAutoload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/VERSION" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/changelog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/class.phpmailer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/class.phpmaileroauth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/class.phpmaileroauthgoogle.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/class.pop3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/class.smtp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/composer.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/contact.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/docs/Callback_function_notes.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/docs/DomainKeys_notes.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/docs/Note_for_SMTP_debugging.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/docs/extending.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/docs/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/docs/generatedocs.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/docs/pop3_article.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/error_log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/code_generator.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/contents.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/contentsutf8.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/exceptions.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/gmail.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/gmail_xoauth.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/images/phpmailer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/images/phpmailer_mini.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/mail.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/mailing_list.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/pop_before_smtp.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/scripts/XRegExp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/scripts/shAutoloader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/scripts/shBrushPhp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/scripts/shCore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/scripts/shLegacy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/send_file_upload.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/sendmail.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/signed-mail.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/smtp.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/smtp_check.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/smtp_no_auth.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/ssl_options.phps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/styles/shCore.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/styles/shCoreDefault.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/styles/shCoreDjango.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/styles/shCoreEclipse.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/styles/shCoreEmacs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/styles/shCoreFadeToGrey.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/styles/shCoreMDUltra.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/styles/shCoreMidnight.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/styles/shCoreRDark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/styles/shThemeAppleScript.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/styles/shThemeDefault.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/styles/shThemeDjango.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/styles/shThemeEclipse.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/styles/shThemeEmacs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/styles/shThemeFadeToGrey.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/styles/shThemeMDUltra.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/styles/shThemeMidnight.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/styles/shThemeRDark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/styles/shThemeVisualStudio.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/examples/styles/wrapping.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/extras/EasyPeasyICS.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/extras/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/extras/htmlfilter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/extras/ntlm_sasl_client.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/get_oauth_token.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-am.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-ar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-az.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-be.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-bg.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-br.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-ca.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-ch.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-cz.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-de.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-dk.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-el.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-eo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-es.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-et.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-fa.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-fi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-fo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-fr.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-gl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-he.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-hr.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-hu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-id.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-it.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-ja.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-ka.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-ko.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-lt.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-lv.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-ms.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-nl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-no.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-pl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-pt.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-ro.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-ru.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-se.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-si.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-sk.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-sl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-sr.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-tr.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-uk.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-vi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-zh.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/language/phpmailer.lang-zh_cn.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/test/bootstrap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/test/fakepopserver.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/test/fakesendmail.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/test/phpmailerLangTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/test/phpmailerTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/test/runfakepopserver.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/test/test_callback.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/test/testbootstrap-dist.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/phpmailer/travis.phpunit.xml.dist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/practice_areas.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/privacy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/sitemap.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/styles/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup_do-not-copy/thankyou.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/404.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/default_head.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/header_copy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/homepage.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/homepage_copy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/sections/contact/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/sections/contact/head.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/sections/faq/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/sections/faq/head.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/sections/practice_areas/defaul_copy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/sections/practice_areas/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/sections/practice_areas/default_copy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/sections/practice_areas/head.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/sections/privacy/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/sections/privacy/head.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styles/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2/content/sections/practice_areas/defaul_copy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/default_copy.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2/css/.sass-cache/afe190a93449aeec44dfdbe31ea71e85f1b085a2/style.scssc" afterPath="$PROJECT_DIR$/v2/css/.sass-cache/afe190a93449aeec44dfdbe31ea71e85f1b085a2/style.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2/content/header.php" afterPath="$PROJECT_DIR$/v2/content/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2/content/homepage.php" afterPath="$PROJECT_DIR$/v2/content/homepage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2/content/sections/faq/default.php" afterPath="$PROJECT_DIR$/v2/content/sections/faq/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2/content/sections/practice_areas/default.php" afterPath="$PROJECT_DIR$/v2/content/sections/practice_areas/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2/content/sections/practice_areas/default_copy.php" afterPath="$PROJECT_DIR$/v2/content/sections/practice_areas/default_copy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2/css/style.css" afterPath="$PROJECT_DIR$/v2/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2/css/style.css.map" afterPath="$PROJECT_DIR$/v2/css/style.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2/css/style.scss" afterPath="$PROJECT_DIR$/v2/css/style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2/js/controllers.js" afterPath="$PROJECT_DIR$/v2/js/controllers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2/views/default.php" afterPath="$PROJECT_DIR$/v2/views/default.php" />
+    </list>
+    <ignored path="national_legal.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="national_legal" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v2/content/sections/practice_areas/default.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v2/content/sections/faq/default.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+              <folding>
+                <marker date="1464486862554" expanded="true" signature="384:392" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controllers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v2/js/controllers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="584">
+              <caret line="150" column="15" selection-start-line="150" selection-start-column="15" selection-end-line="150" selection-end-column="15" />
+              <folding>
+                <marker date="1464486881422" expanded="true" signature="19:21" ph="{...}" />
+                <marker date="1464486881422" expanded="true" signature="5258:5261" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="homepage.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v2/content/homepage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-425">
+              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+              <folding>
+                <marker date="1464486855176" expanded="false" signature="8403:8422" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/v2/views/default.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="145" column="11" selection-start-line="145" selection-start-column="11" selection-end-line="145" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/content/homepage.php" />
+        <option value="$PROJECT_DIR$/v2/content/sections/about/head.php" />
+        <option value="$PROJECT_DIR$/v2/content/header.php" />
+        <option value="$PROJECT_DIR$/v2/content/sections/about/default.php" />
+        <option value="$PROJECT_DIR$/v2/content/sections/practice_areas/default.php" />
+        <option value="$PROJECT_DIR$/v2/content/sections/faq/default_copy.php" />
+        <option value="$PROJECT_DIR$/v2/content/sections/faq/default.php" />
+        <option value="$PROJECT_DIR$/v2/js/controllers.js" />
+        <option value="$PROJECT_DIR$/v2/content/homepage.php" />
+        <option value="$PROJECT_DIR$/v2/views/default.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="national_legal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="national_legal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="national_legal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="national_legal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="national_legal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="national_legal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="national_legal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="national_legal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="national_legal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="national_legal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="national_legal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="national_legal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="national_legal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice_areas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="national_legal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="national_legal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="faq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rbroden\Documents\GitHub\national_legal\v2\content\sections\faq" />
+      <recent name="C:\Users\rbroden\Documents\GitHub\national_legal\v2\content\sections\practice_areas" />
+      <recent name="C:\Users\rbroden\Documents\GitHub\national_legal\v2\content\sections\about" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="national_legal" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="525d1924-130f-40c0-b74b-f525771c83ce" name="Default" comment="" />
+      <created>1463971497434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1463971497434</updated>
+      <workItem from="1463971505505" duration="49000" />
+      <workItem from="1463971575072" duration="14694000" />
+      <workItem from="1464226168400" duration="3230000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17973000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.7738589" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.49636552" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.22614108" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/v2/content/sections/practice_areas/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2/content/sections/faq/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <marker date="1464486862554" expanded="true" signature="384:392" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1972">
+          <caret line="116" column="19" selection-start-line="116" selection-start-column="19" selection-end-line="116" selection-end-column="19" />
+          <folding>
+            <marker date="1464486881422" expanded="true" signature="19:21" ph="{...}" />
+            <marker date="1464486881422" expanded="true" signature="5258:5261" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/homepage.php" />
+    <entry file="file://$PROJECT_DIR$/v2/content/sections/contact/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2/content/sections/about/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="47" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2/content/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2/content/sections/about/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2/content/sections/practice_areas/default_copy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2/content/sections/faq/default_copy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2/content/sections/practice_areas/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2/content/sections/faq/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <marker date="1464486862554" expanded="true" signature="384:392" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="150" column="15" selection-start-line="150" selection-start-column="15" selection-end-line="150" selection-end-column="15" />
+          <folding>
+            <marker date="1464486881422" expanded="true" signature="19:21" ph="{...}" />
+            <marker date="1464486881422" expanded="true" signature="5258:5261" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2/content/homepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-425">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding>
+            <marker date="1464486855176" expanded="false" signature="8403:8422" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2/views/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="145" column="11" selection-start-line="145" selection-start-column="11" selection-end-line="145" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

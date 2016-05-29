@@ -5,7 +5,7 @@ body, h1, h2, h3, h4, h5, h6 {
 #nlGreeting {
   height: 35vw;
   margin-bottom: 60px;
-  background-image: url("img/All-hands-in-Color-Temp-Homepage-Image-to-put-on-gradient-Recovered2.jpg");
+  /*background-image:url('img/All-hands-in-Color-Temp-Homepage-Image-to-put-on-gradient-Recovered2.jpg');*/
   background-size: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -309,5 +309,8 @@ footer {
     #cardTable, #cardContent {
       margin-left: 0;
       margin-right: 0; } }
+
+.underline {
+  text-decoration: underline; }
 
 /*# sourceMappingURL=style.css.map */

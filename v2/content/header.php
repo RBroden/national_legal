@@ -17,18 +17,21 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
            <ul class="nav navbar-nav">
-             <li class="<?=$this->checkActiveTab('')?>">
+            <li class="<?=$this->checkActiveTab('')?>">
                 <a href="<?=$this->site?>">Home</a>
-             </li>
-             <li class="<?=$this->checkActiveTab('practice_areas')?>">
+            </li>
+            <li class="<?=$this->checkActiveTab('about')?>">
+                <a href="<?=$this->site?>about">About Us</a>
+            </li>
+            <li class="<?=$this->checkActiveTab('practice_areas')?>">
                 <a href="<?=$this->site?>practice_areas">Practice Areas</a>
-             </li>
-             <li class="<?=$this->checkActiveTab('faq')?>">
+            </li>
+            <li class="<?=$this->checkActiveTab('faq')?>">
                 <a href="<?=$this->site?>faq">FAQ</a>
-             </li>
-             <li class="<?=$this->checkActiveTab('contact')?>">
+            </li>
+            <li class="<?=$this->checkActiveTab('contact')?>">
                 <a href="<?=$this->site?>contact">Contact</a>
-             </li>
+            </li>
           </ul>
         </div>
       </div>

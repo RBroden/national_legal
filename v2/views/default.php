@@ -51,7 +51,7 @@
 ================================================== -->
 <body data-ng-app="siteApp">
    <?php
-      include 'content/header.php';
+      include $this->resource . 'content/header.php';
       if(isset($this->page))
    	{
          $file = $this->resource . 'content/sections/'.$this->section.'/'.$this->page.'/default.php';
@@ -81,11 +81,17 @@
     <script src="<?=$this->resource?>js/bootstrap.min.js"></script>
     <script src="<?=$this->resource?>js/angular.min.js"></script>
     <script src="<?=$this->resource?>js/controllers.js"></script>
+    <script src="<?=$this->resource?>js/parallax.min.js"></script>
+
+    <script>
+        $('.parallax-window').parallax({imageSrc: 'img/All-hands-in-Color-Temp-Homepage-Image-to-put-on-gradient-Recovered2.jpg'});
+    </script>
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="<?=$this->resource?>js/ie10-viewport-bug-workaround.js"></script>
 
     <script>
+        /*
     var picArray = [
        'people_sunset', // a
        '500_F_85646159_uTzEpRjysXxzpjQ5uGMyJ8HezdIXxPwi', // b
@@ -135,7 +141,7 @@
       $('#nlGreeting').css("background-position", '0 ' + picBG[pos]);
     });
 
-
+    */
     </script>
     <style>
     #picturePreview{

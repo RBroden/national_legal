@@ -75,20 +75,56 @@
        width: 1370px;
    }
 }
+@media (max-width: 1200px) {
+    #tagline h6 {
+        font-size: 14px !important;
+    }
+
+    #tagline p {
+        font-size: 12px !important;
+    }
+}
+@media (max-width: 1000px) {
+    #nlGreeting h2 {
+        margin-top: 40px;
+        font-size: 24px;
+    }
+    #headerTagline {
+        font-size: 12px;
+    }
+    #tagline, #contactNumber {
+        display: none;
+    }
+}
+@media (max-width: 600px) {
+    #nlGreeting{
+        height: 60vw !important;
+        margin-bottom: 20px;
+    }
+    #nlGreeting h2 {
+        margin-top: 40px;
+        text-align: center;
+        font-size: 18px;
+    }
+    #headerTagline {
+        text-align: center;
+        font-size: 12px !important;
+    }
+}
 </style>
 <div data-ng-controller="homeCtrl">
-   <div id="nlGreeting" class="jumbotron vertical-center">
+   <div id="nlGreeting" class="jumbotron vertical-center parallax-window" data-parallax="scroll" data-image-src="v2/css/img/All-hands-in-Color-Temp-Homepage-Image-to-put-on-gradient-Recovered2.jpg" style="height: 35vw; background-color: transparent;" data-natural-width="2000" data-natural-height="1000" data-speed="0.3">
       <div id="nlMainImg" class="container" data-ng-show="checked" style="position: relative; height: 28vw;">
-        <div style="float: right; color: #fff; margin-top: 20px; font-size: 24px;">1.800.728.5285</div>
+        <div id="contactNumber" style="float: right; color: #fff; margin-top: 20px; font-size: 24px;"><i class="glyphicon glyphicon-earphone"></i> 1.800.728.5285</div>
          <div>
             <h2>The Law Office of Fox, Kohler and Associates, PLLC</h2>
          </div>
          <!--<h3>National Legal Center</h3>-->
          <div style="clear: both; text-align: left;">
-           <div style="font-size:16px;" class="nlMsg">Over 40 years of combined experience in defending our client's consumer rights</div>
+           <div id="headerTagline" style="font-size:16px;" class="nlMsg">Over 40 years of combined experience in defending our client's consumer rights</div>
          </div>
          <div style="clear: both; color: #fff; position: absolute; width: 50%; right: 20px; bottom: 20px; text-align: justify; text-justify: inter-word;">
-            <div>
+            <div id="tagline">
                <h6 style="font-size: 18px; color: #fff; padding-bottom: 10px; border-bottom: 1px solid #3399cc;">OUR COMMITMENT</h6>
                <p style="font-size: 16px;">At National Legal Center, we believe that diversity, in terms of people, perspectives and experiences – can create more innovative solutions and greater contributions from everyone. As our workforce grows to reflect the greater diversity of the world in which we live, our efforts to value differences and build a culture of inclusion become increasingly essential to our success and that of our clients.</p>
             </div>
@@ -144,22 +180,24 @@
 
 <div class="container marketing">
 
-  <!-- Three columns of text below the carousel -->
+    <div class="row visible-xs text-center well">
+        <a href="tel:18007285285"><i class="glyphicon glyphicon-earphone"></i> 1.800.728.5285</a>
+    </div>
   <div class="row">
-    <div class="col-lg-4">
+    <div class="col-sm-4 text-center">
       <a href="<?=$this->site?>practice_areas" class="nlCircle" style="border-radius: 100%; background: url('img/practice_areas_circle.jpg'); background-size: 100%; background-repeat: no-repeat; background-position: center; ">
          <!--<img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image">-->
       </a>
       <h2>Practice Areas</h2>
     </div><!-- /.col-lg-4 -->
-    <div class="col-lg-4">
+    <div class="col-sm-4 text-center">
       <a href="<?=$this->site?>faq" class="nlCircle" style="border-radius: 100%; background: url('img/faq_circle.jpg'); background-size: 100%; background-repeat: no-repeat; background-position: center; ">
          <!--<img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image">-->
          <!--<img class="img-circle" src="img/500_F_18067236_xuRDL0115o49PEg7NPQai6GR1nPIyAvm.jpg" alt="Generic placeholder image">-->
       </a>
       <h2>FAQ</h2>
     </div><!-- /.col-lg-4 -->
-    <div class="col-lg-4">
+    <div class="col-sm-4 text-center">
       <a href="<?=$this->site?>contact" class="nlCircle" style="border-radius: 100%; background: url('img/contact_circle.jpg'); background-size: 100%; background-repeat: no-repeat; background-position: center; ">
          <!--<img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image">-->
       </a>
@@ -168,6 +206,7 @@
   </div><!-- /.row -->
 
   <!-- START THE FEATURETTES -->
+    <!--
   <hr class="featurette-divider">
   <div class="row">
      <div class="col-lg-7">
@@ -196,4 +235,5 @@
         <p>Our friendly, experienced attorneys and support staff have nearly half a century of combined legal and  financial experience.  Our Attorneys and staff are responsible and respected by others in the legal and  financial community.</p>
      </div>
   </div>
+  -->
 </div>

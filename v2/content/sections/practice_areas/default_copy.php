@@ -1,6 +1,77 @@
 <div data-ng-controller="paCtrl" class="container nlInfo">
-   <div class="row">
-      <div>
+   <div id="cardTable" class="card-table nav nav-pills">
+      <div class="row card-row">
+         <div class="col-md-4">
+            <div class="card">
+               <a class="showContent" href="#debt_resolution_legal_service" data-toggle="pill">
+                  <h4 class="card-header">Debt Resolution Legal Service</h4>
+               </a>
+               <div class="card-block">
+                  <p class="item">If you owe over $10,000 in unsecured debt and are struggling with payments, our Debt Resolution Legal Service may be your best course of action to resolve your debt.  Our Attorneys and Professional staff will assist you in resolving your debts on a plan that will fit your personal situation and budget. If you owe over $10,000 in unsecured debt and are struggling with payments, our Debt Resolution Legal Service may be your best course of action to resolve your debt. Our Attorneys and Professional staff will assist you in resolving your debts on a plan that will fit your personal situation and budget.</p>
+               </div>
+            </div>
+         </div>
+
+         <div class="col-md-4">
+            <div class="card">
+               <a class="showContent" href="#fdcpa_enforcement" data-toggle="pill">
+                  <h4 class="card-header">FDCPA Enforcement</h4>
+               </a>
+               <div class="card-block">
+                  <p class="item">The Fair Debt Collection Practices Act, which is often referred to as the FDCPA, was created by Congress in 1977 in response to the abusive conduct often engaged in by collection agencies.  The FDCPA is in place to protect you, the consumer, against the illegal tactics of the third party creditors. If you owe over $10,000 in unsecured debt and are struggling with payments, our Debt Resolution Legal Service may be your best course of action to resolve your debt. Our Attorneys and Professional staff will assist you in resolving your debts on a plan that will fit your personal situation and budget.</p>
+               </div>
+            </div>
+         </div>
+
+         <div class="col-md-4">
+            <div class="card">
+               <a class="showContent" href="#consumer_and_debtor_rights" data-toggle="pill">
+                  <h4 class="card-header">Consumer and Debtor Rights</h4>
+               </a>
+               <div class="card-block">
+                  <p class="item">If you owe credit card debt, or any debt for that matter, you may think that you do not have any rights against those that are attempting to collect the debt that you owe.  At National Legal Center, we know your rights. Our highly experienced Attorneys and staff of professionals will thoroughly evaluate your case. If you owe over $10,000 in unsecured debt and are struggling with payments, our Debt Resolution Legal Service may be your best course of action to resolve your debt. Our Attorneys and Professional staff will assist you in resolving your debts on a plan that will fit your personal situation and budget.</p>
+               </div>
+            </div>
+         </div>
+      </div> <!-- end or .row -->
+      <div class="row card-row">
+         <div class="col-md-4">
+            <div class="card">
+               <a class="showContent" href="#bankruptcy_alternatives" data-toggle="pill">
+                  <h4 class="card-header">Bankruptcy Alternatives</h4>
+               </a>
+               <div class="card-block">
+                  <p class="item">There are a number of different strategies for handling problem debt and there are alternatives to filing bankruptcy. For many people and for many different reasons, bankruptcy may not be right for you. You are always encouraged to review all of your options, including bankruptcy, before making your decision on how to handle your problem debt. If you owe over $10,000 in unsecured debt and are struggling with payments, our Debt Resolution Legal Service may be your best course of action to resolve your debt. Our Attorneys and Professional staff will assist you in resolving your debts on a plan that will fit your personal situation and budget.</p>
+               </div>
+            </div>
+         </div>
+
+         <div class="col-md-4">
+            <div class="card">
+               <a class="showContent" href="#elder_law" data-toggle="pill">
+                  <h4 class="card-header">Elder Law</h4>
+               </a>
+               <div class="card-block">
+                  <p class="item">Our firm will create a plan that can protect your assets and ensure that you or your family members can qualify for Medicaid if and when the need arises. Our Attorney will help you create a plan that makes sense for your family and your situation. If you owe over $10,000 in unsecured debt and are struggling with payments, our Debt Resolution Legal Service may be your best course of action to resolve your debt. Our Attorneys and Professional staff will assist you in resolving your debts on a plan that will fit your personal situation and budget.</p>
+               </div>
+            </div>
+         </div>
+
+         <div class="col-md-4">
+            <div class="card">
+               <a class="showContent" href="#credit_correction_legal_service" data-toggle="pill">
+                  <h4 class="card-header">Credit Correction Legal Service</h4>
+               </a>
+               <div class="card-block">
+                  <p class="item">While we serve clients in diverse areas of practice, our passion is in ensuring our clients are protected under various state and federal consumer protection laws. Your case will be reviewed to ensure that your rights are protected as established by the Fair Credit Reporting Act (FCRA) and other federal laws. If you owe over $10,000 in unsecured debt and are struggling with payments, our Debt Resolution Legal Service may be your best course of action to resolve your debt. Our Attorneys and Professional staff will assist you in resolving your debts on a plan that will fit your personal situation and budget.</p>
+               </div>
+            </div>
+         </div>
+      </div> <!-- end or .row -->
+   </div>
+
+   <div id="cardContent" class="row" style="display:none;">
+      <div style="display:none;">
          <!--<ul class="nlSideNav list-unstyled">-->
          <ul class="nav nav-pills nav-justified">
             <li role="presentation" class="active">
@@ -92,66 +163,11 @@
             <p>Your case will be managed by an attorney licensed in your state of residence. An attorney-client relationship will be established within a defined scope of representation to assist you with your credit profile. Unlike others firms, all correspondence will be sent on your behalf to the credit bureaus, collection agencies, and information furnishers, under the representation and name of National Legal Center and your assigned Attorney.</p>
             <p><strong>You have the right to question information on your credit report.</strong> If you feel information on your report may be erroneous, inaccurate, misleading, ambiguous, untimely, incomplete, unverified, unverifiable, questionable or unclear, you have the right to question it. When an item cannot be verified, it must be removed. We will assist you in understanding your legal rights regarding your credit report.</p>
          </div>
+         <hr class="featurette-divider">
+         <div class="text-center">
+            <button id="backLink" type="button" class="btn btn-primary">Back to Practice Areas</button>
+            <!--<a id="backLink" href="#">Back</a>-->
+         </div>
       </div>
    </div> <!-- end of .row -->
-
-   <!-- Card alternative / Use flexbox -->
-   <div class="card-table">
-      <div class="row card-row">
-         <div class="col-md-4">
-            <div class="card">
-               <h4 class="card-header">Debt Resolution Legal Service</h4>
-               <div class="card-block">
-                  <p class="item">If you owe over $10,000 in unsecured debt and are struggling with payments, our Debt Resolution Legal Service may be your best course of action to resolve your debt.  Our Attorneys and Professional staff will assist you in resolving your debts on a plan that will fit your personal situation and budget.</p>
-               </div>
-            </div>
-         </div>
-
-         <div class="col-md-4">
-            <div class="card">
-               <h4 class="card-header">FDCPA Enforcement</h4>
-               <div class="card-block">
-                  <p class="item">The Fair Debt Collection Practices Act, which is often referred to as the FDCPA, was created by Congress in 1977 in response to the abusive conduct often engaged in by collection agencies.  The FDCPA is in place to protect you, the consumer, against the illegal tactics of the third party creditors.</p>
-               </div>
-            </div>
-         </div>
-
-         <div class="col-md-4">
-            <div class="card">
-               <h4 class="card-header">Consumer and Debtor Rights</h4>
-               <div class="card-block">
-                  <p class="item">If you owe credit card debt, or any debt for that matter, you may think that you do not have any rights against those that are attempting to collect the debt that you owe.  At National Legal Center, we know your rights. Our highly experienced Attorneys and staff of professionals will thoroughly evaluate your case.</p>
-               </div>
-            </div>
-         </div>
-      </div> <!-- end or .row -->
-      <div class="row card-row">
-         <div class="col-md-4">
-            <div class="card">
-               <h4 class="card-header">Bankruptcy Alternatives</h4>
-               <div class="card-block">
-                  <p class="item">There are a number of different strategies for handling problem debt and there are alternatives to filing bankruptcy. For many people and for many different reasons, bankruptcy may not be right for you. You are always encouraged to review all of your options, including bankruptcy, before making your decision on how to handle your problem debt.</p>
-               </div>
-            </div>
-         </div>
-
-         <div class="col-md-4">
-            <div class="card">
-               <h4 class="card-header">Elder Law</h4>
-               <div class="card-block">
-                  <p class="item">Our firm will create a plan that can protect your assets and ensure that you or your family members can qualify for Medicaid if and when the need arises. Our Attorney will help you create a plan that makes sense for your family and your situation.</p>
-               </div>
-            </div>
-         </div>
-
-         <div class="col-md-4">
-            <div class="card">
-               <h4 class="card-header">Credit Correction Legal Service</h4>
-               <div class="card-block">
-                  <p class="item">While we serve clients in diverse areas of practice, our passion is in ensuring our clients are protected under various state and federal consumer protection laws. Your case will be reviewed to ensure that your rights are protected as established by the Fair Credit Reporting Act (FCRA) and other federal laws.</p>
-               </div>
-            </div>
-         </div>
-      </div> <!-- end or .row -->
-   </div>
 </div> <!-- end of .container -->
