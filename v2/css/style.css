@@ -1,6 +1,12 @@
+body {
+  font-size: 16px; }
+
 body, h1, h2, h3, h4, h5, h6 {
   font-family: 'Roboto Condensed', sans-serif;
   color: #5a5a5a; }
+
+footer {
+  font-size: 14px; }
 
 #nlGreeting {
   height: 35vw;
@@ -81,6 +87,7 @@ body, h1, h2, h3, h4, h5, h6 {
     opacity: 1; } }
 .contactForm {
   margin: 10px 0;
+  border: 5px solid #e3e4e6;
   border-radius: 5px;
   padding: 20px;
   background: #F3F4F6; }
@@ -312,5 +319,125 @@ footer {
 
 .underline {
   text-decoration: underline; }
+
+/* from homepage */
+.vertical-center {
+  text-align: center;
+  text-shadow: 2px 2px 5px #000; }
+
+.vertical-center .container {
+  animation-name: circleReturnAni;
+  animation-duration: 1s; }
+
+.vertical-center h2, .vertical-center h3 {
+  float: left;
+  color: #fff !important;
+  margin: 20px 0 5px; }
+
+.vertical-center h3 {
+  clear: both;
+  margin: 0 0 10px; }
+
+.nlMsg {
+  width: auto;
+  display: inline-block;
+  color: #fff;
+  font-style: italic; }
+
+.nlMsg p {
+  margin: 0; }
+
+#nlPresentation {
+  display: none; }
+
+/*
+.showNav{
+   background-color: rgba(0, 0, 0, 0.9);
+   animation-name: showNavAni;
+   animation-duration: 1s;
+}
+.hideNav{
+   color: #fff;
+   background-color: rgba(0, 0, 0, 0);
+   border: 0px;
+   box-shadow: none;
+   animation-name: hideNavAni;
+   animation-duration: 1s;
+}
+.hideNav .navbar-nav>li>a, .hideNav .navbar-brand{
+   color: #fff !important;
+}
+.hideNav .navbar-nav>.active>a, .hideNav .navbar-nav>.active>a:focus, .hideNav .navbar-nav>.active>a:hover{
+   background: none !important;
+}
+@keyframes showNavAni {
+   from {
+      background-color: rgba(0, 0, 0, 0);
+   }
+   to {
+      background-color: rgba(0, 0, 0, 0.9);
+   }
+}
+@keyframes hideNavAni {
+   from {
+      background-color: rgba(0, 0, 0, 0.9);
+   }
+   to {
+      background-color: rgba(0, 0, 0, 0);
+   }
+}
+*/
+.col-lg-6 {
+  margin: 0 20px; }
+
+@media (min-width: 1400px) {
+  #nlMainImg {
+    width: 1370px; } }
+@media (max-width: 1200px) {
+  #tagline h6 {
+    font-size: 14px !important; }
+
+  #tagline p {
+    font-size: 12px !important; } }
+@media (max-width: 1000px) {
+  #nlGreeting h2 {
+    margin-top: 40px;
+    font-size: 24px; }
+
+  #headerTagline {
+    font-size: 12px; }
+
+  #tagline, #contactNumber {
+    display: none; }
+
+  footer {
+    margin-top: 20px; } }
+@media (max-width: 600px) {
+  #nlGreeting {
+    height: 60vw !important;
+    margin-bottom: 20px; }
+
+  #nlGreeting h2 {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 18px; }
+
+  #headerTagline {
+    text-align: center;
+    font-size: 12px !important; }
+
+  footer {
+    margin-top: 20px; } }
+#heroName {
+  opacity: 1;
+  animation: circleReturnAni .5s; }
+
+#contactNumber {
+  opacity: 1;
+  animation: circleReturnAni .75s; }
+
+#tagline {
+  opacity: 1;
+  animation: circleReturnAni 1.25s; }
 
 /*# sourceMappingURL=style.css.map */

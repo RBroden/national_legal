@@ -1,1 +1,1 @@
-<title>Frequently Asked Questions - National Legal Center</title>
+<title>Privacy Policy - National Legal Center</title>

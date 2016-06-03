@@ -2,7 +2,7 @@
 <footer>
    <div class="container">
       <p class="pull-right text-center">
-         <span style="display: inline-block; width: 120px; height: 32px;">
+         <span style="display: none; width: 120px; height: 32px;">
             <span id="socialFaceBook" class="socialLink"></span>
             <span id="socialTwitter" class="socialLink"></span>
             <span id="socialYouTube" class="socialLink"></span>

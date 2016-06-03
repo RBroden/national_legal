@@ -1,16 +1,24 @@
+<style>
+    .contactSymbol {
+        font-size: 24px;
+    }
+    .contactMethod{
+        margin-top: 30px;
+    }
+</style>
 <div class="container nlInfo">
    <div class="row">
-      <article class="col-lg-7">
+      <article class="col-sm-7">
          <h2>Contact Us</h2>
          <form id="contactForm" method="post" class="contactForm"  onsubmit="return submitForm()">
             <div class="row">
-               <div class="col-md-6">
+               <div class="col-sm-6">
                   <div class="form-group">
                      <label for="email">Email address:</label>
                      <input type="email" class="form-control" id="email" name="email">
                   </div>
                </div>
-               <div class="col-md-6">
+               <div class="col-sm-6">
                   <div class="form-group">
                      <label for="name">Name:</label>
                      <input type="text" class="form-control" id="name" name="name">
@@ -18,13 +26,13 @@
                </div>
             </div>
             <div class="row">
-               <div class="col-md-6">
+               <div class="col-sm-6">
                   <div class="form-group">
                      <label for="state">State:</label>
                      <input type="text" class="form-control" id="state" name="state">
                   </div>
                </div>
-               <div class="col-md-6">
+               <div class="col-sm-6">
                   <div class="form-group">
                      <label for="phone">Phone:</label>
                      <input type="text" class="form-control" id="phone" name="phone">
@@ -32,13 +40,13 @@
                </div>
             </div>
             <div class="row">
-               <div class="form-group col-md-12">
+               <div class="form-group col-sm-12">
                   <label for="phone">Ask any question you might have:</label>
                   <textarea name="comment" id="comment" class="form-control" rows="10"></textarea>
                </div>
             </div>
             <div class="row">
-               <div class="form-group col-md-12">
+               <div class="form-group col-sm-12">
                   <button type="submit" class="btn btn-default">Submit</button>
                </div>
             </div>
@@ -50,56 +58,55 @@
             Your message was not sent successfully.
          </div>
       </article>
-      <aside id="sidebar" class="col-lg-5">
+      <aside id="sidebar" class="col-sm-5">
          <h2>Our Phone, Email, Address</h2>
-         <table>
-         <tbody><tr>
-         <td>Phone: (1.800.728.5285)  9AM-5PM M-F EST</td>
-         </tr>
-         <tr>
-         <td>&nbsp;</td>
-         </tr>
-         <tr>
-         <td>Fax: (1.866.526.1602)</td>
-         </tr>
-         <tr>
-         <td>&nbsp;</td>
-         </tr>
-         <tr>
-         <td>General : <a href="mailto:support@nationallegal.com">support@nationallegal.com</a></td>
-         </tr>
-         <tr>
-         <td>Payments: <a href="mailto:banking@nationallegal.com">banking@nationallegal.com</a></td>
-         </tr>
-         <tr>
-         <td>&nbsp;</td>
-         </tr>
-         <tr>
-         <td>Mail Address:</td>
-         </tr>
-         <tr>
-         <td>&nbsp;</td>
-         </tr>
-         <tr>
-         <td>National Legal Center</td>
-         </tr>
-         <tr>
-         <td>P.O. Box 835</td>
-         </tr>
-         <tr>
-         <td>Candia, NH 03034</td>
-         </tr>
-         </tbody></table>
+         <div class="row contactMethod">
+            <div class="col-xs-2 text-center contactSymbol">
+               <i class="glyphicon glyphicon-earphone"></i>
+            </div>
+            <div class="col-xs-10">
+               Phone: 1.800.728.5285<br><small>9AM-5PM M-F EST</small>
+            </div>
+         </div>
+         <div class="row contactMethod">
+            <div class="col-xs-2 text-center contactSymbol">
+               <i class="glyphicon glyphicon-file"></i>
+            </div>
+            <div class="col-xs-10">
+               Fax: 1.866.526.1602
+            </div>
+         </div>
+         <div class="row contactMethod">
+            <div class="col-xs-2 text-center contactSymbol">
+               <i class="glyphicon glyphicon-send"></i>
+            </div>
+            <div class="col-xs-10">
+               Email<br>
+               General : <a href="mailto:support@nationallegal.com">support@nationallegal.com</a><br>
+               Payments: <a href="mailto:banking@nationallegal.com">banking@nationallegal.com</a>
+            </div>
+         </div>
+         <div class="row contactMethod">
+            <div class="col-xs-2 text-center contactSymbol">
+               <i class="glyphicon glyphicon-envelope"></i>
+            </div>
+            <div class="col-xs-10">
+               Mail Address<br>
+               National Legal Center<br>
+               P.O. Box 835<br>
+               Candia, NH 03034
+            </div>
+         </div>
       </aside>
    </div>
 </div>
-
+<!-- new -->
 <script>
 function submitForm(){
 
    $.ajax({
       method: "POST",
-      url: "api/mailer.php",
+      url: "phpmailer/contact.php",
       data: {
          "email" : $('#email').val(),
          "name" : $('#name').val(),

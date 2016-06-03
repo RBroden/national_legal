@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
-    <meta name="author" content="">
     <link rel="shortcut icon" href="img/nlc.ico" type="image/x-icon" />
 
     <!-- Bootstrap core CSS -->
@@ -40,6 +39,16 @@
    		}
    	}
    ?>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-76622846-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -90,73 +99,5 @@
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="<?=$this->resource?>js/ie10-viewport-bug-workaround.js"></script>
 
-    <script>
-        /*
-    var picArray = [
-       'people_sunset', // a
-       '500_F_85646159_uTzEpRjysXxzpjQ5uGMyJ8HezdIXxPwi', // b
-       '500_F_56025347_TnH7eJ3YVYRmmKKFz2jd9KgcwuJwDWWW', // c
-       'AdobeStock_30205770_WM', // j
-       '500_F_89424604_0LvyOgsqyLd2caofEGhFgP0RjnjsLNfB', // d
-       '500_F_40906078_xqi8qJqKwgZyFzyiEGfww5uwnRrRmgMa', // e
-       '500_F_86094488_cOD8gAPa4GgLxANb3uOHASGO8qIRfwp8', // f
-       '500_F_99594662_lTYAZVWc4iTAfTmjh8JCs6zjiAV11vfc', // g
-       '500_F_33491113_qiJtKnjjII51CVuWxvVR4srjm0DBQ2t6', // h
-       '500_F_67340426_HZatnRu8BnWR9J9QtbqTz59oQQu5AW8I', // i
-       '500_F_85546214_OekiGPx9Gk8luDzusUVPIkMZwT947D2M' // k
-    ];
-
-    var picBG = [
-      '0', // a
-      '-100px', // b
-      '-50px', // c
-      '0', // j
-      '-500px', // d
-      '0', // e
-      '-250px', // f
-      '-400px', // g
-      '-200px', // h
-      '-350px', // i
-      '-200px' // k
-    ];
-
-    for(var i = 0; i < picArray.length; i++){
-      $('#picturePreview').append('<span class="previewItem">'+(i+1)+'</span>');
-    }
-
-    $('#nlGreeting').click(function(){
-      if($('#nlPresentation').css('display')!='none'){
-         $('#nlPresentation').hide();
-      }
-      else{
-         $('#nlPresentation').show();
-      }
-    });
-
-    $('.previewItem').click(function(){
-      var pos = $(this).index('.previewItem');
-      $('.previewItem').css('background','#fff');
-      $(this).css('background','#def');
-      $('#nlGreeting').css("background-image", 'url(img/'+picArray[pos]+'.jpg)');
-      $('#nlGreeting').css("background-position", '0 ' + picBG[pos]);
-    });
-
-    */
-    </script>
-    <style>
-    #picturePreview{
-      margin-top: -40px;
-      margin-bottom: 15px;
-      text-align: center;
-    }
-    #picturePreview .previewItem{
-      margin: 2px 3px;
-      border: 1px solid #3cf;
-      border-radius: 3px;
-      color: #39c;
-      padding: 5px;
-      cursor: pointer;
-    }
-    </style>
   </body>
 </html>

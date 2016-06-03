@@ -53,7 +53,7 @@
                   <h4 class="card-header">Debt Related Security Clearance Representation</h4>
                </a>
                <div class="card-block">
-                  <p class="item">If you owe credit card debt, or any debt for that matter, you may think that you do not have any rights against those that are attempting to collect the debt that you owe.  At National Legal Center, we know your rights. Our highly experienced Attorneys and staff of professionals will thoroughly evaluate your case. If you owe over $10,000 in unsecured debt and are struggling with payments, our Debt Resolution Legal Service may be your best course of action to resolve your debt. Our Attorneys and Professional staff will assist you in resolving your debts on a plan that will fit your personal situation and budget.</p>
+                  <p class="item">Financial problems are the most common reason for security clearance denials. Our experienced Attorneys work on your behalf and fight to obtain and/or maintain your security clearance, even when debt or credit is less than perfect. We will also put a long term plan in place that is tailored to your needs. Our goal is to comprehensively address your debt and/or credit issues and help you with a long term remedy for your specific situation.</p>
                </div>
             </div>
          </div>
@@ -133,14 +133,9 @@
          </div>
          <div id="debt_related_security_clearance_representation" class="tab-pane fade">
             <h2>Debt Related Security Clearance Representation</h2>
-            <p>If you owe credit card debt, or any debt for that matter, you may think that you do not have any rights against those that are attempting to collect the debt that you owe.  At National Legal Center, we know your rights. Our highly experienced Attorneys and staff of professionals will thoroughly evaluate your case. Once you are a client, your assigned Attorney will provide direction and guidance based on your rights as a  consumer and a debtor. As a National Legal Center client, your Attorney will advise you as to your rights in the following areas:</p>
-            <ul>
-               <li>Collection Law</li>
-               <li>FDCPA violations</li>
-               <li>Lawsuits</li>
-               <li>Judgement</li>
-               <li>Statute of limitations</li>
-            </ul>
+            <p>A security clearance, or eligibility for access, is a determination mainly made by a government agency that deems a person eligible for access to classified information. We offer representation pertaining to the denial or pending denial of a security clearance due to excessive indebtedness and/or derogatory credit.</p>
+            <p>Financial problems are the most common reason for security clearance denials.  Our experienced Attorneys work on your behalf and fight to obtain and/or maintain your security clearance, even when debt or credit is less than perfect.  In addition to addressing the security clearance, we will put a long term plan in place that is tailored to your needs. Our goal is to comprehensively address your debt and/or credit issues and help you with a long term remedy for your specific situation.</p>
+            <p>If you’re worried about your security clearance, help is available. Call our office directly. We will listen carefully to your needs and explain how we can assist you.</p>
          </div>
          <div id="bankruptcy_alternatives" class="tab-pane fade">
             <h2>Bankruptcy Alternatives</h2>

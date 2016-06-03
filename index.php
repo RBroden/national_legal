@@ -1,6 +1,6 @@
 <?php
 
-   $site = "http://explosivefish.com/national_legal/";
+   $site = "http://nationallegal.com/";
    $version = "v2";
    $resource = $version . "/";
    $section = $_GET['section'];
@@ -35,7 +35,7 @@
       private $page;
 
       function __construct() {
-         $this->site = "http://explosivefish.com/national_legal/";
+         $this->site = "http://nationallegal.com/";
          $this->version = "v2";
          $this->resource = $this->version . '/';
          $this->section = $_GET['section'];
