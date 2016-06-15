@@ -15,19 +15,19 @@
     <link href="<?=$this->resource?>css/ie10-viewport-bug-workaround.css" rel="stylesheet">
 
     <!-- Custom Style -->
-    <link href="<?=$this->resource?>css/style.css" rel="stylesheet">
+    <link href="<?=$this->resource?>css/style.css?v1" rel="stylesheet">
 
     <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
 
     <?php
-      if(isset($this->page))
+    if(isset($this->page) && !empty($this->page))
    	{
          $file = $this->resource . 'content/sections/'.$this->section.'/'.$this->page.'/head.php';
          includeFile($file,'head');
    	}
    	else
    	{
-   		if(isset($this->section))
+   		if(isset($this->section) && !empty($this->section))
    		{
             $file = $this->resource . 'content/sections/'.$this->section.'/head.php';
             echo '<meta name="test" content="'.$file.'">';
@@ -59,27 +59,27 @@
 <!-- NAVBAR
 ================================================== -->
 <body data-ng-app="siteApp">
-   <?php
-      include $this->resource . 'content/header.php';
-      if(isset($this->page))
-   	{
-         $file = $this->resource . 'content/sections/'.$this->section.'/'.$this->page.'/default.php';
-         includeFile($file,'content');
-   	}
-   	else
-   	{
-   		if(isset($this->section))
-   		{
-            $file = $this->resource . 'content/sections/'.$this->section.'/default.php';
+    <?php
+        include $this->resource . 'content/header.php';
+        if(isset($this->page) && !empty($this->page))
+        {
+            $file = $this->resource . 'content/sections/'.$this->section.'/'.$this->page.'/default.php';
             includeFile($file,'content');
-   		}
-   		else
-   		{
-   			include $this->resource . 'content/homepage.php';
-   		}
-   	}
-      include $this->resource . 'content/footer.php';
-   ?>
+        }
+        else
+        {
+            if(isset($this->section) && !empty($this->section))
+            {
+                $file = $this->resource . 'content/sections/'.$this->section.'/default.php';
+                includeFile($file,'content');
+            }
+            else
+            {
+                include $this->resource . 'content/homepage.php';
+            }
+        }
+        include $this->resource . 'content/footer.php';
+    ?>
 
 
     <!-- Bootstrap core JavaScript

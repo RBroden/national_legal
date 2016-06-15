@@ -263,6 +263,10 @@ footer {
     background-position: -64px 0px; }
     footer #socialYouTube:hover {
       background-position: -64px -32px; }
+  footer #socialInstagram {
+    background-position: -96px 0px; }
+    footer #socialInstagram:hover {
+      background-position: -96px -32px; }
 
 .panel a:focus, .panel a:hover {
   text-decoration: none; }

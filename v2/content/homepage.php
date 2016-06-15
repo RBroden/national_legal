@@ -14,7 +14,7 @@
          <div style="clear: both; color: #fff; position: absolute; width: 50%; right: 20px; bottom: 20px; text-align: justify; text-justify: inter-word;">
             <div id="tagline">
                <h6 style="font-size: 18px; color: #fff; padding-bottom: 10px; border-bottom: 1px solid #3399cc;">OUR COMMITMENT</h6>
-               <p style="font-size: 16px;">At National Legal Center, we believe that diversity, in terms of people, perspectives and experiences – can create more innovative solutions and greater contributions from everyone. As our workforce grows to reflect the greater diversity of the world in which we live, our efforts to value differences and build a culture of inclusion become increasingly essential to our success and that of our clients.</p>
+               <p style="font-size: 16px;">National Legal was built on forging relationships with clients in their time of need. The most effective legal representation is anchored in genuine compassion. We strive to provide an integrated experience not commonplace in a typical law office setting. Our clients have unique situations that often cause them a great deal of stress. We ease their worries by taking the time to listen and care, while fiercely protecting their rights through honest, strategic and-when needed- aggressive representation.</p>
             </div>
          </div>
       </div>
@@ -31,20 +31,20 @@
 <div class="container marketing">
     <div class="row">
         <div class="col-sm-4 text-center">
-          <a href="<?=$this->site?>practice_areas" class="nlCircle" style="border-radius: 100%; background: url('img/practice_areas_circle.jpg'); background-size: 100%; background-repeat: no-repeat; background-position: center; ">
+          <a href="<?=$this->site?>Practice_Areas" class="nlCircle" style="border-radius: 100%; background: url('img/practice_areas_circle.jpg'); background-size: 100%; background-repeat: no-repeat; background-position: center; ">
              <!--<img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image">-->
           </a>
           <h2>Practice Areas</h2>
         </div><!-- /.col-lg-4 -->
         <div class="col-sm-4 text-center">
-          <a href="<?=$this->site?>faq" class="nlCircle" style="border-radius: 100%; background: url('img/faq_circle.jpg'); background-size: 100%; background-repeat: no-repeat; background-position: center; ">
+          <a href="<?=$this->site?>FAQ" class="nlCircle" style="border-radius: 100%; background: url('img/faq_circle.jpg'); background-size: 100%; background-repeat: no-repeat; background-position: center; ">
              <!--<img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image">-->
              <!--<img class="img-circle" src="img/500_F_18067236_xuRDL0115o49PEg7NPQai6GR1nPIyAvm.jpg" alt="Generic placeholder image">-->
           </a>
           <h2>FAQ</h2>
         </div><!-- /.col-lg-4 -->
         <div class="col-sm-4 text-center">
-          <a href="<?=$this->site?>contact" class="nlCircle" style="border-radius: 100%; background: url('img/contact_circle.jpg'); background-size: 100%; background-repeat: no-repeat; background-position: center; ">
+          <a href="<?=$this->site?>Contact" class="nlCircle" style="border-radius: 100%; background: url('img/contact_circle.jpg'); background-size: 100%; background-repeat: no-repeat; background-position: center; ">
              <!--<img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image">-->
           </a>
           <h2>Contact</h2>

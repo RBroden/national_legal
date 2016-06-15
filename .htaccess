@@ -1,6 +1,8 @@
 IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
 DirectoryIndex index.php
 RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^practice_areas.html$ index.php?section=practice_areas [L]
 RewriteRule ^faq.html$ index.php?section=faq [L]
 RewriteRule ^contact.html$ index.php?section=contact [L]
@@ -9,6 +11,9 @@ RewriteRule ^([0-9A-Za-z\_\-]+)$ index.php?section=$1 [L]
 RewriteRule ^([0-9A-Za-z\_\-]+)/$ index.php?section=$1 [L]
 RewriteRule ^([0-9A-Za-z\_\-]+)/([0-9A-Za-z\_\-]+)$ index.php?section=$1&page=$2 [L]
 RewriteRule ^([0-9A-Za-z\_\-]+)/([0-9A-Za-z\_\-]+)/$ index.php?section=$1&page=$2 [L]
+RewriteRule ^api/([^.?]+).xml$ v2/api/api.php?request=$1 [QSA,NC,L]
+RewriteRule ^api/([^.?]+).json$ v2/api/api.php?request=$1 [QSA,NC,L]
+RewriteRule ^api/([^.?]+).txt$ v2/api/api.php?request=$1 [QSA,NC,L]
 
 
 <Limit GET POST>

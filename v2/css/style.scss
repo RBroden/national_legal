@@ -343,6 +343,12 @@ footer{
          background-position: -64px -32px;
       }
    }
+  #socialInstagram{
+    background-position: -96px 0px;
+    &:hover{
+      background-position: -96px -32px;
+    }
+  }
 }
 
 .panel{

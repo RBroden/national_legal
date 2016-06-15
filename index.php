@@ -21,13 +21,6 @@
          }
       }
    }
-   
-   /*
-   if(isset($_POST['submit']))
-   {
-   	echo 'hello';
-   }
-   */
 
    class Info {
       public $site;
@@ -38,8 +31,8 @@
          $this->site = "http://nationallegal.com/";
          $this->version = "v2";
          $this->resource = $this->version . '/';
-         $this->section = $_GET['section'];
-         $this->page = $_GET['page'];
+         $this->section = trim(strtolower($_GET['section']));
+         $this->page = trim(strtolower($_GET['page']));
       }
 
       function getHeader() {

@@ -21,16 +21,16 @@
                 <a href="<?=$this->site?>">Home</a>
             </li>
             <li class="<?=$this->checkActiveTab('about')?>">
-                <a href="<?=$this->site?>about">About Us</a>
+                <a href="<?=$this->site?>About">About Us</a>
             </li>
             <li class="<?=$this->checkActiveTab('practice_areas')?>">
-                <a href="<?=$this->site?>practice_areas">Practice Areas</a>
+                <a href="<?=$this->site?>Practice_Areas">Practice Areas</a>
             </li>
             <li class="<?=$this->checkActiveTab('faq')?>">
-                <a href="<?=$this->site?>faq">FAQ</a>
+                <a href="<?=$this->site?>FAQ">FAQ</a>
             </li>
             <li class="<?=$this->checkActiveTab('contact')?>">
-                <a href="<?=$this->site?>contact">Contact</a>
+                <a href="<?=$this->site?>Contact">Contact</a>
             </li>
           </ul>
         </div>

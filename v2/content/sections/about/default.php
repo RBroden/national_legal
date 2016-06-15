@@ -66,19 +66,19 @@
     <div class="row text-center" style="margin-top: 50px;">
         <div class='col-sm-4 profile'>
             <div class="profileBG">
-                <img src='img/attorney/Rosanna_crop.jpg' style="border-radius:5px;" width="75%">
+                <img src='img/attorney/Rosanna_crop.jpg' style="border-radius:5px;" width="50%">
                 <h4>Attorney Rosanna Fox</h4>
             </div>
         </div>
         <div class='col-sm-4 profile'>
             <div class="profileBG">
-                <img src='img/attorney/Arthur_crop.jpg' style="border-radius:5px;" width="75%">
+                <img src='img/attorney/Arthur_crop.jpg' style="border-radius:5px;" width="50%">
                 <h4>Attorney Arthur Kohler</h4>
             </div>
         </div>
         <div class='col-sm-4 profile'>
             <div class="profileBG">
-                <img src='img/attorney/John_crop.jpg' style="border-radius:5px;" width="75%">
+                <img src='img/attorney/John_crop.jpg' style="border-radius:5px;" width="50%">
                 <h4>Attorney John Farrell</h4>
             </div>
         </div>

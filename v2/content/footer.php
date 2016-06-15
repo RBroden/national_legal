@@ -2,10 +2,11 @@
 <footer>
    <div class="container">
       <p class="pull-right text-center">
-         <span style="display: none; width: 120px; height: 32px;">
-            <span id="socialFaceBook" class="socialLink"></span>
-            <span id="socialTwitter" class="socialLink"></span>
-            <span id="socialYouTube" class="socialLink"></span>
+         <span style="width: 120px; height: 32px;">
+            <a target="_blank" href="https://www.facebook.com/nationallegal"><span id="socialFaceBook" class="socialLink"></span></a>
+            <a target="_blank" href="https://twitter.com/nationallegalNH"><span id="socialTwitter" class="socialLink"></span></a>
+            <a target="_blank" href="https://www.instagram.com/nationallegalcenter/"><span id="socialInstagram" class="socialLink"></span></a>
+            <!--<span id="socialYouTube" class="socialLink" style="display: none;"></span>-->
          </span>
       </p>
       <p>&copy; <?=date("Y")?> National Legal Center</p>
